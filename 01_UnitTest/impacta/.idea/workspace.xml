@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03d3ea00-dde8-41ed-92b4-2febe209f7d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProdutoMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProdutoMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProdutoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Absoluto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Absoluto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YTqVtGggqHFPfTfixBAcig8oi0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProdutoMockTest.ConsultarValorParcela">
+    <configuration name="ProdutoMockTest.ConsultarPreco" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProdutoMockTest" />
+      <option name="METHOD_NAME" value="ConsultarPreco" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoMockTest.ConsultarValorParcela" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProdutoMockTest" />
+      <option name="METHOD_NAME" value="ConsultarValorParcela" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoMockTest.ValidarQuantidadeParcelasInvalidas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProdutoMockTest" />
+      <option name="METHOD_NAME" value="ValidarQuantidadeParcelasInvalidas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoMockTest.ValidarQuantidadeParcelasPositivo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProdutoMockTest" />
+      <option name="METHOD_NAME" value="ValidarQuantidadeParcelasPositivo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.testDescontoNaoAceitavelProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProdutoTest" />
+      <option name="METHOD_NAME" value="testDescontoNaoAceitavelProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProdutoMockTest.ConsultarValorParcela" />
+        <item itemvalue="JUnit.ProdutoMockTest.ValidarQuantidadeParcelasInvalidas" />
+        <item itemvalue="JUnit.ProdutoMockTest.ValidarQuantidadeParcelasPositivo" />
+        <item itemvalue="JUnit.ProdutoMockTest.ConsultarPreco" />
+        <item itemvalue="JUnit.ProdutoTest.testDescontoNaoAceitavelProduto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03d3ea00-dde8-41ed-92b4-2febe209f7d2" name="Default Changelist" comment="" />
+      <created>1582976958372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582976958372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="283" key="GridCell.Tab.0.bottom" timestamp="1582982915695">
+      <screen x="0" y="0" width="2560" height="1052" />
+    </state>
+    <state width="2518" height="283" key="GridCell.Tab.0.bottom/0.0.2560.1052@0.0.2560.1052" timestamp="1582982915695" />
+    <state width="2518" height="283" key="GridCell.Tab.0.center" timestamp="1582982915695">
+      <screen x="0" y="0" width="2560" height="1052" />
+    </state>
+    <state width="2518" height="283" key="GridCell.Tab.0.center/0.0.2560.1052@0.0.2560.1052" timestamp="1582982915695" />
+    <state width="2518" height="283" key="GridCell.Tab.0.left" timestamp="1582982915695">
+      <screen x="0" y="0" width="2560" height="1052" />
+    </state>
+    <state width="2518" height="283" key="GridCell.Tab.0.left/0.0.2560.1052@0.0.2560.1052" timestamp="1582982915695" />
+    <state width="2518" height="283" key="GridCell.Tab.0.right" timestamp="1582982915695">
+      <screen x="0" y="0" width="2560" height="1052" />
+    </state>
+    <state width="2518" height="283" key="GridCell.Tab.0.right/0.0.2560.1052@0.0.2560.1052" timestamp="1582982915695" />
+  </component>
+</project>
